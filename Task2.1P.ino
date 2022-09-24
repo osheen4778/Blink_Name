@@ -34,156 +34,156 @@ void MorseCode(String x){
         dash();
         break;
         
-      case 'B':       //morse code for alphabet A
+      case 'B':       //morse code for alphabet B
         dash();
         dot();
         dot();
         dot();
         break;
         
-      case 'C':        //morse code for alphabet A
+      case 'C':        //morse code for alphabet C
         dash();
         dot();
         dash();
         dot();
         break;
         
-      case 'D':          //morse code for alphabet A
+      case 'D':          //morse code for alphabet D
         dash();
         dot();
         dot();
         break;
         
-      case 'E':           //morse code for alphabet A
+      case 'E':           //morse code for alphabet E
         dot();
         break;
         
-      case 'F':            //morse code for alphabet A
+      case 'F':            //morse code for alphabet F
         dash();
         dot();
-        dot();
-        dash();
-        dot();
-        break;
-        
-      case 'G':             //morse code for alphabet A
-        dash();
-        dash();
-        dot();
-        break;
-        
-      case 'H':             //morse code for alphabet A
-        dot();
-        dot();
-        dot();
-        dot();
-        break;
-        
-      case 'I':              //morse code for alphabet A
-        dot();
-        dot();
-        break;
-        
-      case 'J':               //morse code for alphabet A
-        dot();
-        dash();
-        dash();
-        dash();
-        break;
-        
-      case 'K':                //morse code for alphabet A
-        dash();
-        dot();
-        dash();
-        break;
-        
-      case 'L':                //morse code for alphabet A
-        dot();
-        dash();
-        dot();
-        dot();
-        break;
-        
-      case 'M':                 //morse code for alphabet A
-        dash();
-        dash();
-        break;
-        
-      case 'N':                 //morse code for alphabet A
-        dash();
-        dot();
-        break;
-        
-      case 'O':                 //morse code for alphabet A
-        dash();
-        dash();
-        dash();
-        break;
-        
-      case 'P':                  //morse code for alphabet A
-        dot();
-        dash();
-        dash();
-        dot();
-        break;
-        
-      case 'Q':                   //morse code for alphabet A
-        dash();
-        dash();
-        dot();
-        dash();
-        break;
-        
-      case 'R':                   //morse code for alphabet A
         dot();
         dash();
         dot();
         break;
         
-      case 'S':                    //morse code for alphabet A
+      case 'G':             //morse code for alphabet G
+        dash();
+        dash();
+        dot();
+        break;
+        
+      case 'H':             //morse code for alphabet H
+        dot();
         dot();
         dot();
         dot();
         break;
         
-      case 'T':                     //morse code for alphabet A
-        dash();
+      case 'I':              //morse code for alphabet I
+        dot();
+        dot();
         break;
         
-      case 'U':                     //morse code for alphabet A
-        dot();
-        dot();
-        dash();
-        break;
-        
-      case 'V':                    //morse code for alphabet A
-        dot();
-        dot();
+      case 'J':               //morse code for alphabet J
         dot();
         dash();
-        break;
-        
-      case 'W':                    //morse code for alphabet A
-        dot();
         dash();
         dash();
         break;
         
-      case 'X':                   //morse code for alphabet A
+      case 'K':                //morse code for alphabet K
+        dash();
+        dot();
+        dash();
+        break;
+        
+      case 'L':                //morse code for alphabet L
+        dot();
+        dash();
+        dot();
+        dot();
+        break;
+        
+      case 'M':                 //morse code for alphabet M
+        dash();
+        dash();
+        break;
+        
+      case 'N':                 //morse code for alphabet N
+        dash();
+        dot();
+        break;
+        
+      case 'O':                 //morse code for alphabet O
+        dash();
+        dash();
+        dash();
+        break;
+        
+      case 'P':                  //morse code for alphabet P
+        dot();
+        dash();
+        dash();
+        dot();
+        break;
+        
+      case 'Q':                   //morse code for alphabet Q
+        dash();
+        dash();
+        dot();
+        dash();
+        break;
+        
+      case 'R':                   //morse code for alphabet R
+        dot();
+        dash();
+        dot();
+        break;
+        
+      case 'S':                    //morse code for alphabet S
+        dot();
+        dot();
+        dot();
+        break;
+        
+      case 'T':                     //morse code for alphabet T
+        dash();
+        break;
+        
+      case 'U':                     //morse code for alphabet U
+        dot();
+        dot();
+        dash();
+        break;
+        
+      case 'V':                    //morse code for alphabet V
+        dot();
+        dot();
+        dot();
+        dash();
+        break;
+        
+      case 'W':                    //morse code for alphabet W
+        dot();
+        dash();
+        dash();
+        break;
+        
+      case 'X':                   //morse code for alphabet X
         dash();
         dot();
         dot();
         dash();
         break;
         
-      case 'Y':                     //morse code for alphabet A
+      case 'Y':                     //morse code for alphabet Y
         dash();
         dot();
         dash();
         dash();
         break;
         
-      case 'Z':                     //morse code for alphabet A
+      case 'Z':                     //morse code for alphabet Z
         dash();
         dash();
         dot();
